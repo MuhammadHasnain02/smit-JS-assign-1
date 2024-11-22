@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: Arial;
+    text-shadow: 10px 10px 4px silver;
+}
